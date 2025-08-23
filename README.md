@@ -6,7 +6,7 @@
 <!-- Contact Badges -->
 <p align="center">
   <!-- LinkedIn Badge -->
-  <a href="www.linkedin.com/in/dev-victor-raphael" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/dev-victor-raphael" style="text-decoration: none;">
     <img alt="LinkedIn" title="Connect with me on LinkedIn" 
          src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=634781" 
          style="height: 27px;" /></a>
@@ -30,10 +30,10 @@
          style="height: 27px;" /></a>
          
   <!-- GitHub Followers Badge -->
-<a href="https://github.com/EooVictor?tab=followers" style="text-decoration: none;">
-  <img alt="Followers" title="My Followers on GitHub" 
-       src="https://img.shields.io/github/followers/andrrade?style=for-the-badge&color=634781&labelColor=282A36&logo=github&logoColor=white&cacheSeconds=1" 
-       style="height: 27px;" /></a>
+  <a href="https://github.com/EooVictor?tab=followers" style="text-decoration: none;">
+    <img alt="Followers" title="My Followers on GitHub" 
+         src="https://img.shields.io/github/followers/EooVictor?style=for-the-badge&color=634781&labelColor=282A36&logo=github&logoColor=white&cacheSeconds=1" 
+         style="height: 27px;" /></a>
 </p>
 
 <!-- GitHub Logo -->
@@ -42,14 +42,17 @@
 
 <br>
 
-Sou uma pessoa curiosa, dedicada e apaixonada por tecnologia. Estou sempre em busca de evoluir e aprender mais, especialmente nas áreas de Python e automação de processos. Acredito no poder da tecnologia para transformar realidades e estou constantemente desenvolvendo minhas habilidades para aplicar soluções práticas no dia a dia..
+<!-- About Me -->
+<p align="center">
+Muito prazer, sou o <b>Victor</b>! 🚀<br>
+Sou entusiasta da tecnologia e apaixonado por desenvolvimento de sistemas, com experiência em lógica de programação, automação de processos, inteligência artificial e bancos de dados.<br><br>
+</p>
 
 ---
 
-
 <div align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -77,16 +80,4 @@ Sou uma pessoa curiosa, dedicada e apaixonada por tecnologia. Estou sempre em bu
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
 </picture>
 
-<!-- GitHub Stats -->
-<details>
-  <a>
-  <summary>Github Stats ⚡</summary>
-  <br>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <!-- GitHub Stats Cards -->
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=EooVictor&show_icons=true&locale=en&theme=blueberry&rank_icon=github&card_width=100" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EooVictor&theme=blueberry&layout=compact&card_width=100">
-</div>
-  
-<a>
-</details>
+---
