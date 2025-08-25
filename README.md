@@ -28,12 +28,6 @@
     <img alt="Starred Repositories" title="Repositories I've Starred" 
          src="https://custom-icon-badges.demolab.com/badge/-Starred%20Repos-282A36?style=for-the-badge&logo=star&logoColor=white&labelColor=634781" 
          style="height: 27px;" /></a>
-         
-  <!-- GitHub Followers Badge -->
-  <a href="https://github.com/EooVictor?tab=followers" style="text-decoration: none;">
-    <img alt="Followers" title="My Followers on GitHub" 
-         src="https://img.shields.io/github/followers/EooVictor?style=for-the-badge&color=634781&labelColor=282A36&logo=github&logoColor=white&cacheSeconds=1" 
-         style="height: 27px;" /></a>
 </p>
 
 <!-- GitHub Logo -->
