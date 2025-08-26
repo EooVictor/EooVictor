@@ -75,3 +75,10 @@ Sou entusiasta da tecnologia e apaixonado por desenvolvimento de sistemas, com e
 </picture>
 
 ---
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EooVictor&show_icons=true&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EooVictor&layout=compact&theme=dark"/>
+</p>
+
+---
